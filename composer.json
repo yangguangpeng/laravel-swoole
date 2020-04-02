@@ -1,0 +1,17 @@
+{
+    "name": "perry\/laravel-swoole",
+    "description": "laravel-swoole",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "perry",
+            "email": "646138471@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Perry\\LaravelSwoole\\": ""
+        }
+    }
+}
