@@ -13,6 +13,10 @@ $ composer require perry/laravel-swoole -vvv
 在laravel的config/app.php的providers下加上服务提供者
 Perry\LaravelSwoole\SwooleServiceProvider::class
 
+控制台
+启动服务
+php artisan extend:swoole start
+
 ## Contributing
 
 You can contribute in one of three ways:
