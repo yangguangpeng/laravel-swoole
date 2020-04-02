@@ -12,7 +12,6 @@ $ composer require perry/laravel-swoole -vvv
 ## Usage
 在laravel的config/app.php的providers下加上服务提供者
 Perry\LaravelSwoole\SwooleServiceProvider::class
-TODO
 
 ## Contributing
 
